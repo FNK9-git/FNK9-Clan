@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.fnk9klán.hu">🌐 Weboldal</a> •
+  <a href="https://www.fnk9klán.hu">🌐 Webpage</a> •
   <a href="https://discord.gg/pbWXJXugJH">💬 Discord</a> •
   <a href="https://petyka-92-shop.fourthwall.com/en-eur/">🛒 Webshop</a>
 </p>
