@@ -12,12 +12,12 @@
 <p align="center">
   <a href="https://www.fnk9klán.hu">🌐 Weboldal</a> •
   <a href="https://discord.gg/pbWXJXugJH">💬 Discord</a> •
-  <a href="https://petyka-92-shop.fourthwall.com/en-eur/">🛒 Webáruház</a>
+  <a href="https://petyka-92-shop.fourthwall.com/en-eur/">🛒 Webshop</a>
 </p>
 
 ---
 
-## 📖 Rólunk
+## 📖 Rólunk / About us
 
 Az **[_FNK9]** klán 2019-ben indult a *Call of Duty: Modern Warfare* megjelenésekor. A név a **„főnök”** szóból ered, mert minden meccsen más vezette a csapatot. A **9-es** szám a kilenc alapítóra utal, az alsóvonal (`_`) pedig egyszerűen jól nézett ki.
 
@@ -28,6 +28,16 @@ Ma élő stream fut **Twitch**-en és **TikTok**-on, aktív a **Discord** szerve
 > *„Bárkit szívesen befogadunk, akinek egy szabályt el kell fogadnia: viselje büszkén az _FNK9 klánnevet a játékban. Nem számít, ki milyen szinten játszik, nálunk a közösség számít.”*
 >
 > — **Petyka**, alapító
+
+The **[_FNK9]** clan launched in 2019 alongside the release of *Call of Duty: Modern Warfare*. The name derives from the Hungarian word **"főnök"** (meaning "boss"), as a different person led the team in every match. The number **9** refers to the nine founding members, while the underscore (`_`) was simply an aesthetic choice.
+
+The clan really took off in March 2020 with the release of the original **Warzone**: the in-game group quickly hit the **250-member** cap, and it wasn't uncommon for 2–3 _FNK9 squads to cross paths in the same lobby.
+
+Today, we host live streams on **Twitch** and **TikTok**, maintain an active **Discord** server, and have a presence on Facebook, Instagram, **CoD Mobile**, and the **Gamsler.com** platform.
+
+> *"We welcome anyone, provided they agree to one rule: wear the _FNK9 clan name proudly in-game. Skill level doesn't matter; for us, it’s all about the community."*
+>
+> — **Petyka**, Founder
 
 ---
 
