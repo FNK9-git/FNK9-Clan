@@ -46,10 +46,10 @@ Today, we host live streams on **Twitch** and **TikTok**, maintain an active **D
 
 > 🚧 Hamarosan! Itt jelennek meg a saját fejlesztésű alkalmazásaink.
 
-| App | Leírás | Státusz |
+| App | Description | Status |
 |-----|--------|---------|
-| *FNK9 Zene Letöltő* | *Hamarosan...* | 🔜 Fejlesztés alatt |
-
+| *FNK9 Zene Letöltő* | *Hamarosan/soon...* | 🔜 Fejlesztés alatt/Under development |
+<!--
 ---
 
 ## 🚀 Telepítés
@@ -58,7 +58,7 @@ Today, we host live streams on **Twitch** and **TikTok**, maintain an active **D
 # Repó klónozása
 
 ```
-
+-->
 ---
 
 ## Partnerünk
