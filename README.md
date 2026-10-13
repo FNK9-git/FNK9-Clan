@@ -37,7 +37,7 @@ Ma élő stream fut **Twitch**-en és **TikTok**-on, aktív a **Discord** szerve
 
 | App | Leírás | Státusz |
 |-----|--------|---------|
-| *TBA* | *Hamarosan...* | 🔜 Fejlesztés alatt |
+| *FNK9 Zene Letöltő* | *Hamarosan...* | 🔜 Fejlesztés alatt |
 
 ---
 
