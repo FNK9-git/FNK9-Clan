@@ -46,3 +46,10 @@ Ma élő stream fut **Twitch**-en és **TikTok**-on, aktív a **Discord** szerve
 ```bash
 # Repó klónozása
 git clone https://github.com/FNK9-git/.git
+```
+
+## Partnerünk
+
+<p align="center">
+  <img src="https://www.xn--fnk9kln-mwa.hu/assets/pics/logotxt.png" alt="[_FNK9] Klán logó" width="400"/>
+</p>
