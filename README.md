@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.xn--fnk9kln-mwa.hu/assets/pics/fnk9_logo.png" alt="[_FNK9] Klán logó" width="900"/>
+  <img src="https://www.xn--fnk9kln-mwa.hu/assets/pics/icon.png" alt="[_FNK9] Klán logó" width="900"/>
 </p>
 
 <h1 align="center">[_FNK9] Klán</h1>
@@ -47,6 +47,8 @@ Ma élő stream fut **Twitch**-en és **TikTok**-on, aktív a **Discord** szerve
 # Repó klónozása
 git clone https://github.com/FNK9-git/.git
 ```
+
+---
 
 ## Partnerünk
 
