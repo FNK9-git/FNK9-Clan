@@ -45,7 +45,7 @@ Ma élő stream fut **Twitch**-en és **TikTok**-on, aktív a **Discord** szerve
 
 ```bash
 # Repó klónozása
-git clone https://github.com/FNK9-git/.git
+
 ```
 
 ---
