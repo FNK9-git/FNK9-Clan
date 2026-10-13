@@ -70,4 +70,4 @@ Today, we host live streams on **Twitch** and **TikTok**, maintain an active **D
 
 ---
 
-<span class="footer-copy">&copy; 2026 [_FNK9]&trade; &mdash; Minden jog fenntartva.</span>
+<span class="footer-copy">&copy; 2026 [_FNK9]&trade; &mdash; Minden jog fenntartva. - All rights reserved.</span>
