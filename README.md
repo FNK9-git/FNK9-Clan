@@ -58,6 +58,7 @@ git clone https://github.com/FNK9-git/.git
 
 ---
 
+<link rel="stylesheet" href="https://www.xn-fnk9kln-mwa.hu/assets/css/main.css"/>
 <footer id="dc">
         <div class="footer-social">
             <div class="footer-social-inner">
