@@ -28,7 +28,7 @@ Ma élő stream fut **Twitch**-en és **TikTok**-on, aktív a **Discord** szerve
 > *„Bárkit szívesen befogadunk, akinek egy szabályt el kell fogadnia: viselje büszkén az _FNK9 klánnevet a játékban. Nem számít, ki milyen szinten játszik, nálunk a közösség számít.”*
 >
 > — **Petyka**, alapító
-
+---
 The **[_FNK9]** clan launched in 2019 alongside the release of *Call of Duty: Modern Warfare*. The name derives from the Hungarian word **"főnök"** (meaning "boss"), as a different person led the team in every match. The number **9** refers to the nine founding members, while the underscore (`_`) was simply an aesthetic choice.
 
 The clan really took off in March 2020 with the release of the original **Warzone**: the in-game group quickly hit the **250-member** cap, and it wasn't uncommon for 2–3 _FNK9 squads to cross paths in the same lobby.
