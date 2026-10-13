@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.xn--fnk9kln-mwa.hu/assets/pics/logo.png" alt="[_FNK9] Klán logó" width="400"/>
+  <img src="https://www.xn--fnk9kln-mwa.hu/assets/pics/fnk9.png" alt="[_FNK9] Klán logó" width="400"/>
 </p>
 
 <h1 align="center">[_FNK9] Klán</h1>
